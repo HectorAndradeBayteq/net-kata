@@ -26,3 +26,4 @@ Por otro lado, cuando los huéspedes terminan su estancia se debe registrar su s
 - La solución debe ser simple, pero recordando que es importante mantener buenas prácticas durante la implementación.
 - Cualquier _plus_ que consideres importante para esta implementación es bienvenido. 
 - Una vez finalizada tu implementación debe subirla a Github y compartir el enlace.
+- No olvides incluir todas las instrucciones que consideres necesarias para facilitar la validación de tu solución.
